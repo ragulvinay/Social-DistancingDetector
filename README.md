@@ -17,5 +17,5 @@
 3. Open the JupyterNotebook file in JupyterLab and click Run...!!
 
 ---
-> Developed by [Ragul Vinay](www.linkedin.com/in/ragul-vinay)
+> Developed by [Ragul Vinay](https://www.linkedin.com/in/ragul-vinay/)
 ---
